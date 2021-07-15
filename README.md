@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Eric a Data Scientist👋
+
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://ericyeonpark.github.io/)
 
 <!--
 **ericyeonpark/ericyeonpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
