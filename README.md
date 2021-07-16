@@ -26,6 +26,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2E3440?style=for-the-badge&logo=mongodb)
+![Dash](https://img.shields.io/badge/Dash-2E3440?style=for-the-badge&logo=dash)
 
 ## Tools Skills:
 
@@ -33,7 +34,7 @@
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
 ![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
-place holder for AWS
+![AWS](https://img.shields.io/badge/AWS-2E3440?style=for-the-badge&logo=amazon)
 
 ---
 
