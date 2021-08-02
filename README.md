@@ -4,8 +4,8 @@
 
 ## I'm a Esports Lover, Reality TV Show Enthusiast, Fast Learner, and Data Scientist!!
 
-- 🌱 I’m currently learning computer science in Python
-- 🥅 2021 Goals: Graduate from Lambda School and get a data science job
+- 🌱 I’m currently learning Tableau while practicing my SQL skills
+- 🥅 2021 Goals: Get the dream data science job
 - ⚡ Fun fact: I love to watch reality TV. Favorite Show: The Genius. Currently watching: MasterChef
 
 ### Connect with me:
