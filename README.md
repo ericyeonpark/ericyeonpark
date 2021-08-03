@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://ericyeonpark.github.io/)
 
-## I'm a Esports Lover, Reality TV Show Enthusiast, Fast Learner, and Data Scientist!!
+## I'm an Esports Lover, Reality TV Show Enthusiast, Fast Learner, and Data Scientist!!
 
 - 🌱 I’m currently learning Tableau while practicing my SQL skills
 - 🥅 2021 Goals: Get the dream data science job
