@@ -42,8 +42,11 @@
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&to=ericyeonpark@gmail.com&su=SUBJECT&body=BODY&tf=cm
 [linkedin]: https://www.linkedin.com/in/ericyjpark/
 
-<!--
-**ericyeonpark/ericyeonpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lambda Data Science & Machine Learning Credential
+<img align="left" style="margin-right: 1.5rem" alt="Lambda Data Science and Machine Learning Credential" width="75px" src="assets\data-science-machine-learning-lambda-cred.png"/>
+
+
+<!-- **ericyeonpark/ericyeonpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
