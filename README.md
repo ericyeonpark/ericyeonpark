@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Get the dream data science job
 - ⚡ Fun fact: I love to watch reality TV. Favorite Show: The Genius. Currently watching: MasterChef
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\globe.svg" />][website]
 
@@ -43,7 +43,7 @@
 [linkedin]: https://www.linkedin.com/in/ericyjpark/
 
 ## Lambda Data Science & Machine Learning Credential
-<img align="left" style="margin-right: 1.5rem" alt="Lambda Data Science and Machine Learning Credential" width="75px" src="assets\data-science-machine-learning-lambda-cred.png"/>
+<img align="left" style="margin-right: 1.5rem" alt="Lambda Data Science and Machine Learning Credential" width="70px" src="assets\data-science-machine-learning-lambda-cred.png"/>
 
 
 <!-- **ericyeonpark/ericyeonpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
