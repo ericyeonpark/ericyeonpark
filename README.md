@@ -26,7 +26,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mySQL-2E3440?style=for-the-badge&logo=mySQL)
-![Dash](https://img.shields.io/badge/Dash-2E3440?style=for-the-badge&logo=dash)
 ![Flask](https://img.shields.io/badge/Flask-2E3440?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2E3440?style=for-the-badge&logo=FastAPI)
 ![Keras](https://img.shields.io/badge/Keras-2E3440?style=for-the-badge&logo=Keras)
@@ -42,7 +41,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-2E3440?style=for-the-badge&logo=Tableau)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2E3440?style=for-the-badge&logo=mongodb)
 ![Docker](https://img.shields.io/badge/docker-2E3440?style=for-the-badge&logo=docker)
-![DataGrip](https://img.shields.io/badge/Datagrip-2E3440?style=for-the-badge&logo=Datagrip)
 
 ---
 
