@@ -1,14 +1,12 @@
-### Hello, I'm Eric a Data Scientist👋
+# Hello, I'm Eric a Data Scientist👋
 
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://ericyeonpark.github.io/)
-
-## I'm an Esports Lover, Reality TV Show Enthusiast, Fast Learner, and Data Scientist!!
+### I'm an Esports Lover, Reality TV Show Enthusiast, Fast Learner, and Data Scientist!!
 
 - 🌱 I’m currently learning Tableau, diving deeper into [machine learning](https://www.udemy.com/course/deployment-of-machine-learning-models/), and honing my SQL skills
 - 🥅 2021 Goals: Get the dream data science job
 - ⚡ Fun fact: I love to watch reality TV. Favorite Show: The Genius. Currently watching: MasterChef
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\globe.svg" />][website]
 
@@ -20,7 +18,7 @@
 
 <!-- Skill Badges -->
 
-## Technical Skills:
+### Technical Skills:
 
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
@@ -31,7 +29,7 @@
 ![Keras](https://img.shields.io/badge/Keras-2E3440?style=for-the-badge&logo=Keras)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-2E3440?style=for-the-badge&logo=Tensorflow)
 
-## Tools Skills:
+### Tools Skills:
 
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
@@ -48,7 +46,7 @@
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&to=ericyeonpark@gmail.com&su=SUBJECT&body=BODY&tf=cm
 [linkedin]: https://www.linkedin.com/in/ericyjpark/
 
-## Lambda Data Science & Machine Learning Credential
+### Lambda Data Science & Machine Learning Credential
 <img align="left" style="margin-right: 1.5rem" alt="Lambda Data Science and Machine Learning Credential" width="70px" src="assets\data-science-machine-learning-lambda-cred.png"/>
 
 
