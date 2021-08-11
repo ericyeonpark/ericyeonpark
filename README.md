@@ -25,8 +25,12 @@
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-2E3440?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mySQL-2E3440?style=for-the-badge&logo=mySQL)
 ![Dash](https://img.shields.io/badge/Dash-2E3440?style=for-the-badge&logo=dash)
+![Flask](https://img.shields.io/badge/Flask-2E3440?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-2E3440?style=for-the-badge&logo=FastAPI)
+![Keras](https://img.shields.io/badge/Keras-2E3440?style=for-the-badge&logo=Keras)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-2E3440?style=for-the-badge&logo=Tensorflow)
 
 ## Tools Skills:
 
@@ -35,6 +39,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
 ![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
 ![AWS](https://img.shields.io/badge/AWS-2E3440?style=for-the-badge&logo=amazon)
+![Tableau](https://img.shields.io/badge/Tableau-2E3440?style=for-the-badge&logo=Tableau)
+![MongoDB](https://img.shields.io/badge/MongoDB-2E3440?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/docker-2E3440?style=for-the-badge&logo=docker)
+![DataGrip](https://img.shields.io/badge/Datagrip-2E3440?style=for-the-badge&logo=Datagrip)
 
 ---
 
