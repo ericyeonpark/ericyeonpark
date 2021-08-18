@@ -1,6 +1,6 @@
 # Hello, I'm Eric a Data Scientist👋
 
-### I'm an Esports Lover, Reality TV Show Enthusiast, Fast Learner, and Data Scientist!!
+### I'm an Esports Lover, Reality TV Show Enthusiast, Fast Learner, and Data Scientist!
 
 - 🌱 I’m currently learning Tableau, diving deeper into [machine learning](https://www.udemy.com/course/deployment-of-machine-learning-models/), and honing my MySQL skills
 - 🥅 2021 Goals: Get the dream data science job
