@@ -44,9 +44,9 @@
 
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-2E3440?style=for-the-badge&logo=)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-2E3440?style=for-the-badge&logo=)
-![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-2E3440?style=for-the-badge&logo=git)
+![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-2E3440?style=for-the-badge&logo=)
 ![ETL Pipeline](https://img.shields.io/badge/ETL_Pipeline-2E3440?style=for-the-badge&logo=git)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-2E3440?style=for-the-badge&logo=git)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-2E3440?style=for-the-badge&logo=)
 
 ---
 
