@@ -37,7 +37,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
 ![AWS](https://img.shields.io/badge/AWS-2E3440?style=for-the-badge&logo=amazon)
 ![Tableau](https://img.shields.io/badge/Tableau-2E3440?style=for-the-badge&logo=Tableau)
-![MongoDB](https://img.shields.io/badge/MongoDB-2E3440?style=for-the-badge&logo=mongodb)
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-2E3440?style=for-the-badge&logo=Google)
 ![Docker](https://img.shields.io/badge/docker-2E3440?style=for-the-badge&logo=docker)
 
 ### Data Science Skills:
