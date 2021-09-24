@@ -58,7 +58,7 @@
 
 
 <!-- **ericyeonpark/ericyeonpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Data Grip](https://img.shields.io/badge/datagrip-2E3440?style=for-the-badge&logo=datagrip)
 
 
 Here are some ideas to get you started:
