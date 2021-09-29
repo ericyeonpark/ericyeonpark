@@ -1,4 +1,4 @@
-# Hello, I'm Eric a Data Scientist👋
+# Hello, I'm Eric a Data Scientist 👋
 
 ### I'm an Esports Lover, Reality TV Show Enthusiast, Fast Learner, and Data Scientist!
 
