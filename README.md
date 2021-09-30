@@ -38,10 +38,11 @@
 ![Tableau](https://img.shields.io/badge/Tableau-2E3440?style=for-the-badge&logo=Tableau)
 ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-2E3440?style=for-the-badge&logo=Google)
 ![Docker](https://img.shields.io/badge/docker-2E3440?style=for-the-badge&logo=docker)
+![Data Grip](https://img.shields.io/badge/datagrip-2E3440?style=for-the-badge&logo=datagrip)
 
 ### Data Science Skills:
 
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-2E3440?style=for-the-badge&logo=)
+![Data Analysis](https://img.shields.io/badge/Data_Analytics-2E3440?style=for-the-badge&logo=)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-2E3440?style=for-the-badge&logo=)
 ![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-2E3440?style=for-the-badge&logo=)
 ![ETL Pipeline](https://img.shields.io/badge/ETL_Pipeline-2E3440?style=for-the-badge&logo=)
