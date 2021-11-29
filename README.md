@@ -2,9 +2,9 @@
 
 ### I am an Esports Lover, Reality TV Show Enthusiast, and Data Scientist!
 
-- 🌱 I’m currently learning Tableau and Apache Airflow, diving deeper into [machine learning](https://www.udemy.com/course/deployment-of-machine-learning-models/), and honing my SQL skills
-- 🥅 2021 Goals: Get the dream data science job
-- ⚡ Fun fact: I love to watch reality TV. Favorite Show: [The Genius](https://www.reddit.com/r/TheGenius/comments/70jog1/links_to_all_subbed_episodes_of_the_genius_s14/). Currently watching: MasterChef
+- 🌱 I’m currently honing my SQL and data visulaization skills
+- 🥅 2021 Goals: Make Skullgirls the biggest mobile game
+- ⚡ Fun fact: I love to watch reality TV. Favorite Show: [The Genius](https://www.reddit.com/r/TheGenius/comments/70jog1/links_to_all_subbed_episodes_of_the_genius_s14/). Currently watching: The Great British Baking Show
 
 ### Connect with me:
 
